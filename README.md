@@ -1,1 +1,2 @@
-"# ProjetoEmTrio" 
+"# ProjetoEmTrio"
+Trabalho em trio 
