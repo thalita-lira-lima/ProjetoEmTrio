@@ -1,2 +1,2 @@
 "# ProjetoEmTrio"
-Trabalho em trio 
+Thalita, Sabrina e Sofia 
